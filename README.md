@@ -1,4 +1,4 @@
-# Hand_gestures
+# Hand_gestures_2key
 Project Overview
 This repository hosts a robust Computer Vision program that enables users to control specific keyboard inputs using real-time hand gestures. This system is designed for practical applications, such as improving accessibility or providing a novel input method for PC games.
 
